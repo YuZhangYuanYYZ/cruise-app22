@@ -1,0 +1,8 @@
+printWidth: .nan
+tabWidth: .nan
+useTabs: true
+semi: true
+singleQuote: true
+trailingComma: none
+bracketSpacing: true
+arrowParens: avoid
